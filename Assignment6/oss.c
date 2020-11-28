@@ -5,7 +5,7 @@
 # Date: 11/19/20
 # Purpose:
 	Design and implement a memory management module for our Operating System Simulator oss.
-	Implement and compare lru and fifo page replacement algorithms, both with dirty-bit optimization.
+	Implement and compare lru with dirty-bit optimization.
 	When a page-fault occurs, it will be necessary to swap in that page. If there are no empty frames, 
 	your algorithm will select the victim frame based on the algorithm for that module (fifo or lru).
 
